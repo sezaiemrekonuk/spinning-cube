@@ -67,7 +67,7 @@ int main() {
           calculateForSurface(cubeX, cubeY, -cubeWidth, '.');
           calculateForSurface(cubeWidth, cubeY, cubeX, '$');
           calculateForSurface(-cubeWidth, cubeY, cubeX, '~');
-          calculateForSurface(-cubeX, cubeY, cubeWidth, '~');
+          calculateForSurface(-cubeX, cubeY, cubeWidth, '#');
           calculateForSurface(cubeX, -cubeWidth, -cubeY, ';');
           calculateForSurface(cubeX, cubeWidth, cubeY, '-');
         }
